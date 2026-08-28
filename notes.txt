@@ -14,3 +14,4 @@ git switch
 git merge
 modifying first branch for q2
 chnages only made only on dev branch
+creating conflict for q2
