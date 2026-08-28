@@ -12,5 +12,5 @@ git log
 git branch
 git switch
 git merge
-modifying first branch for q2
+this line was chnaged on main
 chnages only made only on dev branch
