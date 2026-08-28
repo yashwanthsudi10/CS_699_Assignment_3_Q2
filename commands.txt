@@ -1,0 +1,12 @@
+Linux Commands Used in Lecture 1
+
+pwd - Display the current working directory
+ls - List files and directories
+cd - Change directory
+mkdir - Create a directory
+touch - Create a file
+cp - Copy files
+mv - Move files
+rm - Remove files
+cat - Display file contents
+grep - Search for text

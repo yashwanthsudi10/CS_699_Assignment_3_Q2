@@ -1,0 +1,14 @@
+Lecture 1 Notes
+
+Git is a distributed version control system.
+Git is used to track changes in files and projects.
+
+Important Git commands:
+git init
+git add
+git commit
+git status
+git log
+git branch
+git switch
+git merge
