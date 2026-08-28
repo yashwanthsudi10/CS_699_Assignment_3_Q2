@@ -12,3 +12,4 @@ git log
 git branch
 git switch
 git merge
+modifying first branch for q2
