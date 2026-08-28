@@ -12,6 +12,6 @@ git log
 git branch
 git switch
 git merge
-modifying first branch for q2
+this line was changed on conflict branch
 chnages only made only on dev branch
 creating conflict for q2
