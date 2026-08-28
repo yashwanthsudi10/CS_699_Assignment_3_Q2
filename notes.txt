@@ -13,4 +13,6 @@ git branch
 git switch
 git merge
 this line was chnaged on main
+this line was changed on conflict branch
 chnages only made only on dev branch
+creating conflict for q2
